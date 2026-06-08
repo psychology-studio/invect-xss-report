@@ -46,4 +46,5 @@ Content-Security-Policy: default-src 'self'; script-src 'self';
 
 ---
 *Полную историю этого расследования и разбор поведения антивирусов читайте в моей статье на Medium:*  
-[Читать статью на Medium](https://medium.com)
+[Читать статью на Medium]([https://medium.com](https://medium.com/@psystudio.in/how-i-found-an-xss-vulnerability-on-a-gray-zone-search-feed-invect-com-1eaf476991f5))
+
